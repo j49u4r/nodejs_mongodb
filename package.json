@@ -2,7 +2,7 @@
   "name": "nodejs_mongodb",
   "version": "0.0.1",
   "description": "An app to test MongoDB + NodeJS integration",
-  "main": "index.js",
+  "main": "app.js",
   "dependencies": {
     "express": "^4.14.0",
     "mongodb": "^2.1.18"
