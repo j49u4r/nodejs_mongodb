@@ -1,0 +1,29 @@
+{
+  "name": "nodejs_mongodb",
+  "version": "0.0.1",
+  "description": "An app to test MongoDB + NodeJS integration",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.14.0",
+    "mongodb": "^2.1.18"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/j49u4r/nodejs_mongodb"
+  },
+  "keywords": [
+    "node",
+    "mongo",
+    "nodejs",
+    "mongodb"
+  ],
+  "author": "Augusto Alonso de la Cruz Jiménez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/j49u4r/nodejs_mongodb/issues"
+  }
+}
